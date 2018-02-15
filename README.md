@@ -1,2 +1,2 @@
 # FEUP-PLOG
-A repository to host BDAD projects. 
+A repository to host PLOG projects. 
